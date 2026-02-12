@@ -1,6 +1,5 @@
 # ParsePort — Offer-to-Order Pipeline
 
-
 **Vendor email / Excel price sheet → AI parses offers → human review → convert to order → track shipment → analytics dashboard.**
 
 ---
