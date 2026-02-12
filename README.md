@@ -1,6 +1,5 @@
 # ParsePort — Offer-to-Order Pipeline
 
-A small but **end-to-end** app that demonstrates the loop ParsePort cares about:
 
 **Vendor email / Excel price sheet → AI parses offers → human review → convert to order → track shipment → analytics dashboard.**
 
